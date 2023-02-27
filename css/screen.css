@@ -208,12 +208,11 @@ h1{
   font-family: "Times New Roman", Times, serif;
   margin: auto;
   text-align: center;
-  font-size: 2.5em;
+  font-size: 1.5em;
   display: block;
   background-color: #404040;
   color: #ffffff;
-  padding: 2.55em;
-  margin: 0.9em;
+  padding: 1.55em;
   resize: vertical;
   width: 100%;
 }
@@ -246,14 +245,12 @@ p{
   background-color: #737373;
   resize: vertical;
   position: relative;
-  margin: 0.9em;
 }
 
 #input-age-verification{
   font-family: Arial, sans-serif;
   width: 100%;
   padding: 1.30em;
-  margin: 0.9em;
   border:none;
   text-align: center;
   background-color: #8c8c8c;
@@ -264,7 +261,6 @@ p{
   font-family: 'Open Sans', sans-serif;
   width: 100%;
   padding: 1.30em;
-  margin: 0.9em;
   border: none;
   text-align: center;
   background-color: #0d0d0d
