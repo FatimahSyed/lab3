@@ -205,14 +205,14 @@ label {
 /* ===== LAYOUT STYLES ====== */
 
 h1{
-  font-family: 'Tilt Prism', serif;
+  font-family: "Times New Roman", Times, serif;
   margin: auto;
   text-align: center;
-  font-size: 1.50em;
+  font-size: 2em;
   display: block;
   background-color: #404040;
   color: #ffffff;
-  padding: 0.70em;
+  padding: 2.05em;
   resize: vertical;
   width: 100%;
 }
@@ -239,7 +239,7 @@ p{
   font-family: 'Merriweather', serif; 
   width: 100%;
   font-size: 1.25em;
-  padding: 1.25em;
+  padding: 1.30em;
   border:none;
   text-align: center;
   background-color: #737373;
