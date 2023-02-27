@@ -212,7 +212,7 @@ h1{
   display: block;
   background-color: #404040;
   color: #ffffff;
-  padding: 0.8em;
+  padding: 0.6em;
   resize: vertical;
   width: 100%;
 }
@@ -239,7 +239,7 @@ p{
   font-family: 'Merriweather', serif; 
   width: 100%;
   font-size: 1.25em;
-  padding: 0.8em;
+  padding: 0.7em;
   border:none;
   text-align: center;
   background-color: #737373;
